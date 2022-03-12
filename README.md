@@ -19,5 +19,5 @@ I'm Thanh Bảo. Currently studying at FPT University Da Nang, Viet Nam in Softw
 
 I'm working hard to update my skills to become a Full Stack Developer.
 
-My skills in:
+My skills are in:
 [![My Skills](https://skillicons.dev/icons?i=java,angular,html,css,js,ts,mysql&theme=light)](https://skillicons.dev)
