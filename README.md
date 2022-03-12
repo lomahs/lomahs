@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Thanh Bảo. Currently studying at FPT University Da Nang, Viet Nam in Software Engineering.
+
+I'm working hard to update my skills to become a Full Stack Developer.
