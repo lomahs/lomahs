@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 I'm Thanh Bảo. Currently studying at FPT University Da Nang, Viet Nam in Software Engineering.
 
 I'm working hard to update my skills to become a Full Stack Developer.
+
+My skills in:
+[![My Skills](https://skillicons.dev/icons?i=java,angular,html,css,js,ts,mysql&theme=light)](https://skillicons.dev)
